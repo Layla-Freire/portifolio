@@ -4,7 +4,6 @@ $email = $_POST['email'];
 $assunto = $_POST['assunto'];
 $mensagem = $_POST['mensagem'];
 
-$assunto  = "Mensagem do site portifólio";
 $seuemail = "layla_freire@yahoo.com.br";
 
 $corpo = "<span style='font-weight: bold'>Nome:</span> $name<br>";
