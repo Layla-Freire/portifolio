@@ -16,10 +16,10 @@ A seguir alguns requisitos recomendados para a construção do portifólio.
 - A página deve conter um botão que permita visualizar, em uma nova aba, uma versão em PDF do seu currículo. 
 
 Para este projeto Apliquei as seguintes ferramentas:
--HTML 5;
--CSS 3;
--Bootstrap;
--JavaScript;
--PHP;
+- HTML 5;
+- CSS 3;
+- Bootstrap;
+- JavaScript;
+- PHP;
 
 O projeto ainda está em constrção...
